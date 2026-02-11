@@ -1,44 +1,54 @@
 # Rajat Singh 🔐
 
-Diploma Computer Science Student  
-Security-Focused Web Developer  
+Diploma in Computer Science  
+Aspiring Security-Focused Software Developer  
 
 ---
 
-## 🚀 Focus Areas
-- Cybersecurity Fundamentals
-- Secure Web Development
-- CTF Practice
-- Linux & Networking
+## 👨‍💻 Professional Summary
+
+I am building structured expertise in cybersecurity and secure web development.  
+My focus is on strengthening core fundamentals, applying practical security principles, and documenting measurable technical growth.
+
+I approach development with a **security-first mindset**, ensuring that every system I build prioritizes reliability, validation, and defensive design.
 
 ---
 
-## 📌 Featured Projects
-- Secure Login System
-- XSS Demo & Fix App
-- Networking Notes Repository
+## 🎯 Learning & Development Focus
+
+- Cybersecurity Fundamentals  
+- Linux & Networking Concepts  
+- Web Application Security (OWASP Top 10)  
+- Secure Authentication Mechanisms  
+- Capture The Flag (CTF) Practice  
+- Frontend & Backend Web Development  
 
 ---
 
-## 📈 Currently Learning
-- React
-- Secure Authentication
-- Web App Threat Modeling
+## 📂 Key Learning Repositories
+
+- **cybersecurity-journey** → Structured security fundamentals & labs  
+- **web-development-journey** → Frontend & backend progression  
+- **secure-web-projects** → Security-focused implementation projects  
 
 ---
 
-Learning in public. Building with discipline.
-<!--
-**rajatsec/rajatsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Current Development Areas
 
-Here are some ideas to get you started:
+- React (Component Architecture)  
+- JWT-Based Authentication  
+- Input Validation & XSS Prevention  
+- Web Application Threat Modeling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Methodology
+
+- Learn systematically  
+- Implement practically  
+- Document clearly  
+- Improve iteratively  
+
+---
+
+Focused on long-term technical excellence and disciplined skill development.
