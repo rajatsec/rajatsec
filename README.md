@@ -5,7 +5,7 @@ Aspiring Security-Focused Software Developer
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Technical Profile
 
 I am building structured expertise in cybersecurity and secure web development.  
 My focus is on strengthening core fundamentals, applying practical security principles, and documenting measurable technical growth.
