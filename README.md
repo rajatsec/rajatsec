@@ -1,5 +1,33 @@
-## Hi there 👋
+# Rajat Singh 🔐
 
+Diploma Computer Science Student  
+Security-Focused Web Developer  
+
+---
+
+## 🚀 Focus Areas
+- Cybersecurity Fundamentals
+- Secure Web Development
+- CTF Practice
+- Linux & Networking
+
+---
+
+## 📌 Featured Projects
+- Secure Login System
+- XSS Demo & Fix App
+- Networking Notes Repository
+
+---
+
+## 📈 Currently Learning
+- React
+- Secure Authentication
+- Web App Threat Modeling
+
+---
+
+Learning in public. Building with discipline.
 <!--
 **rajatsec/rajatsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
