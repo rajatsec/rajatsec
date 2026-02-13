@@ -1,54 +1,71 @@
-# Rajat Singh 🔐
+# Krishnkant Singh
 
-Diploma in Computer Science  
-Aspiring Security-Focused Software Developer  
-
----
-
-## 👨‍💻 Technical Profile
-
-I am building structured expertise in cybersecurity and secure web development.  
-My focus is on strengthening core fundamentals, applying practical security principles, and documenting measurable technical growth.
-
-I approach development with a **security-first mindset**, ensuring that every system I build prioritizes reliability, validation, and defensive design.
+**Diploma Student in Computer Science Engineering**  
+Building strong foundations in Web Development.
 
 ---
 
-## 🎯 Learning & Development Focus
+## 👨‍💻 About Me
 
-- Cybersecurity Fundamentals  
-- Linux & Networking Concepts  
-- Web Application Security (OWASP Top 10)  
-- Secure Authentication Mechanisms  
-- Capture The Flag (CTF) Practice  
-- Frontend & Backend Web Development  
+I am currently focused on learning web development from the ground up.  
+My goal is to master core fundamentals before moving into advanced areas like cybersecurity and web security.
+
+Right now, I am prioritizing structured learning and consistent project building.
 
 ---
 
-## 📂 Key Learning Repositories
+## 📚 Current Learning Stage
 
-- **cybersecurity-journey** → Structured security fundamentals & labs  
-- **web-development-journey** → Frontend & backend progression  
-- **secure-web-projects** → Security-focused implementation projects  
-
----
-
-## 🧠 Current Development Areas
-
-- React (Component Architecture)  
-- JWT-Based Authentication  
-- Input Validation & XSS Prevention  
-- Web Application Threat Modeling  
+- ✅ HTML (Completed – practicing through small projects)
+- 🔄 CSS (Starting next phase)
+- 🐧 Linux basics (Using Zorin OS)
+- 🌱 Git & GitHub workflow
 
 ---
 
-## 📈 Methodology
+## 🎯 Short-Term Goals (Next 3 Months)
+
+- Build 5 frontend projects using HTML & CSS
+- Understand semantic HTML deeply
+- Learn responsive design principles
+- Start JavaScript fundamentals
+
+---
+
+## 🛣 Learning Roadmap
+
+### Phase 1 – Frontend Foundations
+- HTML (Structure & semantics)
+- CSS (Layout, Flexbox, Responsive design)
+
+### Phase 2 – Programming Logic
+- JavaScript basics
+- DOM manipulation
+- Form validation
+
+### Phase 3 – Security Direction (Future)
+- Web fundamentals
+- Basic networking concepts
+- Introduction to web security
+
+---
+
+## 📂 Current Repositories
+
+### `web-development-journey`
+Practice projects and structured frontend learning.
+
+(More repositories will be added as I build real projects.)
+
+---
+
+## ⚙️ Approach
 
 - Learn systematically  
-- Implement practically  
-- Document clearly  
-- Improve iteratively  
+- Build small projects consistently  
+- Improve code structure step by step  
+- Document progress publicly  
 
 ---
 
-Focused on long-term technical excellence and disciplined skill development.
+📌 This profile will evolve as my skills grow.
