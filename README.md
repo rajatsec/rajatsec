@@ -1,64 +1,63 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=320&section=header&text=Rajat%20|%20Secure%20Portfolio&fontSize=70&fontAlign=50&fontColor=ffffff&desc=Senior%20Frontend%20Strategist%20|%20Cybersecurity%20Analyst&descAlign=50&descSize=22&descAlignY=65&animation=fadeIn&stroke=000000" width="100%"/>
-</div>
+# Hi, I'm Rajat (Krishnkant Singh)
 
-<div align="center">
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-%40secure__with__rajat-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/secure_with_rajat)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourusername-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  
-</div>
+### Frontend Developer | Offensive Security Enthusiast
+
+I build high-performance websites and landing pages designed to help businesses attract customers — while following secure coding practices.
+
+Currently pursuing a Diploma in Computer Science Engineering and training in offensive security and red teaming.
 
 ---
 
-### 🚀 **Mission Protocol**
-> **"Building Secure, High-Performance Digital Solutions for Modern Businesses."**
+## 🚀 Current Focus
 
-I specialize in bridging the gap between **High-Conversion Frontend Development** and **Defensive Cybersecurity**. I help local businesses build digital storefronts that aren't just visually stunning, but are built for speed, conversion, and security.
-
----
-
-### 🛠️ **Arsenal (Tech Stack)**
-
-| **Domain** | **Tools** |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Security** | ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) OWASP Top 10, Network Auditing |
-| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+* **Building** high-conversion landing pages for businesses
+* **Practicing** modern frontend development
+* **Learning** offensive security and web vulnerabilities
+* **Understanding** OWASP Top 10 and secure coding
 
 ---
 
-### 🌟 **Production-Ready Operations (Featured Projects)**
+## 🛠 Tech Stack
 
-#### 🏋️‍♂️ [Gym Lead-Gen Hub](https://github.com/rajatsec/gym-lead-website)
-A high-conversion landing page designed for fitness centers.
-- ✅ **Focus:** Lead generation & WhatsApp API integration.
-- ⚡ **Performance:** 95+ PageSpeed score.
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-#### 🏠 [Premium Real Estate Portfolio](https://github.com/rajatsec/real-estate-landing)
-Luxury property showcase with interactive grids.
-- ✅ **Focus:** High-end UI/UX & responsive property exploration.
-- 🎨 **Stack:** React, Framer Motion, Tailwind.
-
-#### 📚 [EduPulse: Coaching Institute](https://github.com/rajatsec/coaching-institute-site)
-Authority-building platform for educational institutions.
-- ✅ **Focus:** Information hierarchy & trust-building layouts.
-- 📖 **Stack:** Vite, Vanilla JS, Tailwind.
-
-#### 🛡️ [Cybersecurity Labs](https://github.com/rajatsec/cybersecurity-labs)
-Technical research hub documenting security journey.
-- ✅ **Focus:** Web Exploitation, Network Security, & CTF Write-ups.
-- 🛠️ **Tools:** Burp Suite, Nmap, Metasploit.
+### Security & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
+* OWASP Top 10
+* Basic Recon & Web Testing
 
 ---
 
-### 📂 **Central Portfolio Hub**
-[**Rajat Portfolio Hub**](https://github.com/rajatsec/rajat-portfolio)  
-The command center linking all production assets, featuring my core philosophy and "Security-First" service offerings.
+## 💼 Freelance Projects
+
+### [Gym Lead Generation Website](https://github.com/rajatsec/gym-lead-website)
+A conversion-focused landing page designed to help gyms capture leads and enquiries.
+* **Features:** Mobile responsive layout, WhatsApp lead button, fast loading performance.
+
+### [Real Estate Landing Page](https://github.com/rajatsec/real-estate-landing)
+Landing page concept designed for real estate businesses.
+* **Features:** Property showcase cards, enquiry form, responsive UI.
+
+### [Coaching Institute Website](https://github.com/rajatsec/coaching-institute-site)
+A clean website template for coaching institutes.
+* **Features:** Course sections, student enquiry form, mobile optimized layout.
 
 ---
 
-### 📊 **GitHub Activity**
+## 🛡 Security Learning
+
+Currently studying:
+* **OWASP Top 10** vulnerabilities
+* **Web application** penetration testing
+* **Secure coding** practices
+* **Linux** for security operations
+
+> **Goal:** Combine **web development + security awareness** to build safer websites.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajatsec&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EE0000&icon_color=EE0000&hide_rank=true" width="48%" />
@@ -67,13 +66,16 @@ The command center linking all production assets, featuring my core philosophy a
 
 ---
 
-### 🤝 **Connect With Me**
-- 📸 **Instagram:** [@secure_with_rajat](https://instagram.com/secure_with_rajat)
-- 💼 **LinkedIn:** [yourusername](https://linkedin.com/in/yourusername)
-- 📧 **Email:** [hello@yourdomain.com](mailto:hello@yourdomain.com)
+## 📬 Connect With Me
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer&text=&animation=fadeIn&stroke=000000" width="100%"/>
+<div align="left">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yourusername-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/secure_with_rajat" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40secure__with__rajat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/rajatsec" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rajatsec-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
