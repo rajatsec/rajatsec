@@ -82,8 +82,8 @@ Currently studying:
 ## 📬 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-yourusername-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/krishnkant-singh-rajat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Krishnkant%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/secure_with_rajat" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40secure__with__rajat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
