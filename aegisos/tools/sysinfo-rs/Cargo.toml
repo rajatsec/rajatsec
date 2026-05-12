@@ -1,0 +1,13 @@
+[package]
+name = "aegis-sysinfo"
+version = "0.1.0"
+edition = "2021"
+description = "AegisOS Phase 0 Rust tool — reads /proc and reports kernel, memory, and namespace info"
+authors = ["Rajat (Krishnkant Singh)"]
+license = "GPL-2.0"
+
+[[bin]]
+name = "aegis-sysinfo"
+path = "src/main.rs"
+
+[dependencies]

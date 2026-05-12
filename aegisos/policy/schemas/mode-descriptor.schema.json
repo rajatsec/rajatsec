@@ -1,0 +1,147 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "aegisos/mode-descriptor/v1",
+  "title": "AegisOS Mode Descriptor",
+  "description": "Declarative specification for a single operational mode. The mode loader reads this file and enforces it via LSM, namespaces, and cgroups.",
+  "type": "object",
+  "required": ["version", "name", "lsm_profile", "namespaces", "resources"],
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "type": "integer",
+      "const": 1,
+      "description": "Schema version — bump when fields change incompatibly"
+    },
+    "name": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_-]{1,31}$",
+      "description": "Unique mode identifier, lowercase, no spaces"
+    },
+    "display_name": {
+      "type": "string",
+      "maxLength": 64
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 512
+    },
+    "lsm_profile": {
+      "type": "object",
+      "required": ["engine", "profile_path"],
+      "properties": {
+        "engine": {
+          "type": "string",
+          "enum": ["selinux", "apparmor"],
+          "description": "Which LSM enforces this mode's MAC policy"
+        },
+        "profile_path": {
+          "type": "string",
+          "description": "Path to the SELinux policy module or AppArmor profile"
+        },
+        "enforce": {
+          "type": "boolean",
+          "default": true,
+          "description": "false = permissive/logging only (dev/testing)"
+        }
+      }
+    },
+    "namespaces": {
+      "type": "object",
+      "description": "Which Linux namespaces are isolated for this mode",
+      "properties": {
+        "net":   { "type": "boolean", "default": true },
+        "pid":   { "type": "boolean", "default": true },
+        "mount": { "type": "boolean", "default": true },
+        "user":  { "type": "boolean", "default": false },
+        "ipc":   { "type": "boolean", "default": true },
+        "uts":   { "type": "boolean", "default": false }
+      }
+    },
+    "network": {
+      "type": "object",
+      "properties": {
+        "allow_outbound": { "type": "boolean", "default": true },
+        "allow_inbound":  { "type": "boolean", "default": false },
+        "allowed_ports":  {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1, "maximum": 65535 }
+        },
+        "allowed_hosts": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "filesystem": {
+      "type": "object",
+      "properties": {
+        "read_only_paths": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "denied_paths": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "extra_mounts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["source", "target", "type"],
+            "properties": {
+              "source": { "type": "string" },
+              "target": { "type": "string" },
+              "type":   { "type": "string" },
+              "options":{ "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "resources": {
+      "type": "object",
+      "description": "cgroup v2 resource limits",
+      "required": ["cpu_quota_percent", "memory_limit_mb"],
+      "properties": {
+        "cpu_quota_percent": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 100
+        },
+        "memory_limit_mb": {
+          "type": "integer",
+          "minimum": 64
+        },
+        "pids_max": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "transition": {
+      "type": "object",
+      "description": "Rules governing who can enter or leave this mode",
+      "properties": {
+        "requires_auth": {
+          "type": "string",
+          "enum": ["none", "passphrase", "hardware_token", "boot_time_only"],
+          "default": "passphrase"
+        },
+        "allowed_from": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Mode names that may transition into this mode"
+        }
+      }
+    },
+    "audit": {
+      "type": "object",
+      "properties": {
+        "log_syscalls":     { "type": "boolean", "default": true },
+        "log_file_access":  { "type": "boolean", "default": true },
+        "log_network":      { "type": "boolean", "default": true },
+        "log_transitions":  { "type": "boolean", "default": true }
+      }
+    }
+  }
+}
