@@ -26,12 +26,12 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name:        Rajat (Krishnkant Singh)
-role:        Frontend Developer + Offensive Security Enthusiast
-education:   Diploma in Computer Science Engineering
-focus:       High-conversion websites · Web app security · Red teaming
-currently:   Building recon tooling & studying the OWASP Top 10
-mindset:     "Build it well, then learn how to break it — to build it safer."
+Name:        Rajat (Krishnkant Singh)
+Role:        Frontend Developer + Offensive Security Enthusiast
+Education:   Diploma in Computer Science Engineering
+Focus:       High-conversion websites · Web app security · Red teaming
+Currently:   Building recon tooling & studying the OWASP Top 10
+Mindset:     "Build it well, then learn how to break it — to build it safer."
 ```
 
 - 🌐 I build **fast, high-conversion websites & landing pages** that help businesses get customers.
@@ -145,7 +145,6 @@ mindset:     "Build it well, then learn how to break it — to build it safer."
 
 <a href="https://secure-with-rajat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://instagram.com/secure_with_rajat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:krishnakantsingh4242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br>
 
