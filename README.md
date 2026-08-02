@@ -4,7 +4,7 @@
 
 <p><i>I build fast, high-conversion websites — then learn how to break them, so I can build them safer.</i></p>
 
-<a href="https://secure-with-rajat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=EE0000&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://securewithrajat.in"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=EE0000&labelColor=0D1117" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/krishnkant-singh-rajat"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=EE0000&labelColor=0D1117" alt="LinkedIn" /></a>
 <a href="https://instagram.com/secure_with_rajat"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=EE0000&labelColor=0D1117" alt="Instagram" /></a>
 <a href="https://github.com/rajatsec"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=EE0000&labelColor=0D1117" alt="GitHub" /></a>
