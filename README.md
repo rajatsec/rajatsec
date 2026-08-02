@@ -1,155 +1,141 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:EE0000&height=200&section=header&text=Rajat%20%7C%20Krishnkant%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%C2%B7%20Offensive%20Security%20Enthusiast&descSize=18&descAlignY=58" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=EE0000&center=true&vCenter=true&width=700&height=45&lines=Rajat+%7C+Krishnkant+Singh;Frontend+Developer;Offensive+Security+Enthusiast" alt="Rajat — Frontend Developer &amp; Offensive Security Enthusiast" />
 
-<a href="https://github.com/rajatsec">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EE0000&center=true&vCenter=true&width=600&lines=Building+high-conversion+websites;Breaking+them+to+learn+how+to+secure+them;Frontend+%2B+Security+%3D+Safer+web;Red+teaming+%26+recon+in+progress" alt="Typing SVG" />
-</a>
+<p><i>I build fast, high-conversion websites — then learn how to break them, so I can build them safer.</i></p>
 
-<br>
-
-<!-- Social -->
-<a href="https://secure-with-rajat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://instagram.com/secure_with_rajat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/rajatsec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="www.linkedin.com/in/krishnkant-singh-rajat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=rajatsec&label=Profile%20Views&color=EE0000&style=flat-square" alt="profile views" />
+<a href="https://secure-with-rajat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=EE0000&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/krishnkant-singh-rajat"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=EE0000&labelColor=0D1117" alt="LinkedIn" /></a>
+<a href="https://instagram.com/secure_with_rajat"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=EE0000&labelColor=0D1117" alt="Instagram" /></a>
+<a href="https://github.com/rajatsec"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=EE0000&labelColor=0D1117" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=rajatsec&label=Views&color=EE0000&style=flat-square" alt="Profile views" />
 
 </div>
 
-<!-- ===================== ABOUT ===================== -->
+<br>
 
-## 👨‍💻 About Me
+## About
 
 ```yaml
-Name:        Rajat (Krishnkant Singh)
-Role:        Frontend Developer + Offensive Security Enthusiast
-Education:   Diploma in Computer Science Engineering
-Focus:       High-conversion websites · Web app security · Red teaming
-Currently:   Building recon tooling & studying the OWASP Top 10
-Mindset:     "Build it well, then learn how to break it — to build it safer."
+name:       Rajat (Krishnkant Singh)
+role:       Frontend Developer · Offensive Security Enthusiast
+education:  Diploma in Computer Science Engineering
+building:   High-conversion websites & recon tooling
+learning:   OWASP Top 10 · Web pentesting · Linux for security ops
+motto:      "Build it well, then learn how to break it — to build it safer."
 ```
 
-- 🌐 I build **fast, high-conversion websites & landing pages** that help businesses get customers.
-- 🛡️ I study **offensive security** — web vulnerabilities, recon, and secure coding.
-- 🧪 I turn what I learn into **real tools** — see **ShadowRecon** below.
-- 🌱 Always learning: OWASP Top 10, web pentesting, Linux for security ops.
+- **Frontend** — responsive, fast-loading websites and landing pages built to convert.
+- **Security** — web vulnerabilities, reconnaissance, OSINT, and secure coding practices.
+- **Tooling** — I turn what I learn into real, working tools. Start with **ShadowRecon** below.
 
----
+<br>
 
-<!-- ===================== FEATURED PROJECT ===================== -->
+## Featured — ShadowRecon
 
-## 🚩 Featured Project — ShadowRecon
+An **enterprise-grade OSINT & reconnaissance platform** written in fully async Python.
 
-<a href="https://github.com/rajatsec/shadowrecon">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajatsec&repo=shadowrecon&theme=radical&hide_border=true&bg_color=0D1117&title_color=EE0000&icon_color=EE0000" />
-</a>
+[![Language](https://img.shields.io/github/languages/top/rajatsec/shadowrecon?style=flat-square&label=built%20with&color=EE0000&labelColor=0D1117)](https://github.com/rajatsec/shadowrecon)
+[![Last commit](https://img.shields.io/github/last-commit/rajatsec/shadowrecon?style=flat-square&color=EE0000&labelColor=0D1117)](https://github.com/rajatsec/shadowrecon)
+[![Modules](https://img.shields.io/badge/modules-29-EE0000?style=flat-square&labelColor=0D1117)](https://github.com/rajatsec/shadowrecon)
+[![Async](https://img.shields.io/badge/fully-async-EE0000?style=flat-square&labelColor=0D1117)](https://github.com/rajatsec/shadowrecon)
 
-**[🛡️ ShadowRecon](https://github.com/rajatsec/shadowrecon)** — an **enterprise-grade OSINT & reconnaissance platform** (Python, fully async).
+| | |
+|---|---|
+| **Coverage** | 29 modules across network, web, subdomain, cloud, OSINT, media, threat-intel & AI analysis |
+| **Inputs** | Domains · IPs · phone numbers · usernames · images · documents |
+| **Intelligence** | Computes a **risk score** and generates an **AI recon summary** |
+| **Output** | JSON · CSV · interactive **HTML dashboard** |
 
-- **29 modules** across network, web, subdomain, cloud, OSINT, media, threat-intel & AI analysis
-- Scans **domains, IPs, phone numbers, usernames, images & documents**
-- Computes a **risk score** and generates an **AI recon summary**
-- Outputs JSON / CSV / interactive **HTML dashboard**
+<a href="https://github.com/rajatsec/shadowrecon"><b>→ Explore the repository</b></a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-000?style=flat-square&logo=python&logoColor=white)
-![Recon](https://img.shields.io/badge/OSINT-EE0000?style=flat-square)
+<br>
 
-<br clear="right">
+## Tech Stack
 
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
+
+</td>
+<td valign="top" width="33%">
 
 **Security & Recon**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-0D1117?style=flat-square&logo=owasp&logoColor=EE0000)
+![Recon & OSINT](https://img.shields.io/badge/Recon_%26_OSINT-0D1117?style=flat-square&logo=torbrowser&logoColor=EE0000)
+
+</td>
+<td valign="top" width="33%">
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
 
----
-
-<!-- ===================== PROJECTS ===================== -->
-
-## 💼 Projects
-
-| Project | Description | Live / Repo |
-|---------|-------------|:-----------:|
-| 🛡️ **ShadowRecon** | Enterprise OSINT & recon platform (29 modules, async, AI summary) | [Repo](https://github.com/rajatsec/shadowrecon) |
-| 🧑‍💻 **Portfolio Hub** | My personal portfolio — production-ready, responsive | [Live](https://secure-with-rajat.vercel.app) · [Repo](https://github.com/rajatsec/rajat-portfolio) |
-| 🏋️ **Gym Lead Website** | High-conversion gym landing page with WhatsApp lead capture | [Repo](https://github.com/rajatsec/gym-lead-website) |
-| 🏠 **Real Estate Landing** | Premium property showcase with enquiry form | [Repo](https://github.com/rajatsec/real-estate-landing) |
-| 🎓 **Coaching Institute Site** | Clean, mobile-optimized coaching website | [Repo](https://github.com/rajatsec/coaching-institute-site) |
-| 📚 **Frontend Journey** | Documenting my path to a security-focused web developer | [Repo](https://github.com/rajatsec/frontend-development-journey) |
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajatsec&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EE0000&icon_color=EE0000&hide_rank=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsec&theme=radical&hide_border=true&background=0D1117&ring=EE0000&fire=EE0000&currStreakLabel=EE0000" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EE0000" />
+</td>
+</tr>
+</table>
 
 <br>
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=rajatsec&theme=radical&no-frame=true&column=7&margin-w=10" />
+## Projects
+
+| | Project | What it is | Links |
+|:-:|---|---|---|
+| 🛡️ | **ShadowRecon** | Enterprise OSINT & recon platform — 29 async modules, risk scoring, AI summary | [Repo](https://github.com/rajatsec/shadowrecon) |
+| 🧑‍💻 | **Portfolio Hub** | My personal portfolio — production-ready and fully responsive | [Live](https://secure-with-rajat.vercel.app) · [Repo](https://github.com/rajatsec/rajat-portfolio) |
+| 🏋️ | **Gym Lead Website** | High-conversion gym landing page with WhatsApp lead capture | [Repo](https://github.com/rajatsec/gym-lead-website) |
+| 🏠 | **Real Estate Landing** | Premium property showcase with an enquiry form | [Repo](https://github.com/rajatsec/real-estate-landing) |
+| 🎓 | **Coaching Institute Site** | Clean, mobile-optimized website for a coaching institute | [Repo](https://github.com/rajatsec/coaching-institute-site) |
+| 📚 | **Frontend Journey** | Documenting my path to becoming a security-focused web developer | [Repo](https://github.com/rajatsec/frontend-development-journey) |
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="46%" src="https://streak-stats.demolab.com/?user=rajatsec&theme=dark&hide_border=true&background=0D1117&ring=EE0000&fire=EE0000&currStreakLabel=EE0000&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajatsec&bg_color=0D1117&color=C9D1D9&line=EE0000&point=FFFFFF&area=true&area_color=EE0000&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
----
+<br>
 
-<!-- ===================== SECURITY LEARNING ===================== -->
+## Currently Learning
 
-## 🛡️ Security Learning
-
-> **Currently studying:** OWASP Top 10 · Web application penetration testing · Recon & OSINT · Secure coding · Linux for security operations
+> **OWASP Top 10** · Web application penetration testing · Recon & OSINT · Secure coding · Linux for security operations
 >
-> **Goal:** Combine **web development + security** to build — and break — safer web applications.
+> **Goal —** combine web development with security to build, and break, safer web applications.
+
+<br>
 
 ---
 
 <div align="center">
 
-### 📬 Let's Connect
+**Open to freelance work and collaboration.**
 
-<a href="https://secure-with-rajat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://instagram.com/secure_with_rajat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://secure-with-rajat.vercel.app"><img src="https://img.shields.io/badge/Visit_Portfolio-EE0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
+<a href="https://instagram.com/secure_with_rajat"><img src="https://img.shields.io/badge/Say_Hi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Say hi on Instagram" /></a>
 
-<br>
-
-<sub>⭐ From <b>@secure_with_rajat</b> — building the web, learning to secure it.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,100:8B0000&height=120&section=footer" />
+<sub>⭐ <b>@secure_with_rajat</b> — building the web, learning to secure it.</sub>
 
 </div>
